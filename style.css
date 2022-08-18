@@ -6,6 +6,7 @@ body{
 
 .titulo-principal {
 	padding-left: 20px;
+	
 	text-align: center;
 	font-size: 50px;
 	color: #33AB5F;
@@ -72,8 +73,14 @@ ul {
   padding: 5px 10px;
   margin: 0 2.5%;
   color: #008B8B;
-  
+}
 
+.produto-descricao2{
+  font-size: 23px;
+  padding: 5px 10px;
+  margin: 0 2.5%;
+  color: #3333FF;
+ 
 }
 
 #alimentacao{
