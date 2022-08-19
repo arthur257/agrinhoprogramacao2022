@@ -1,0 +1,25 @@
+body{
+	background-color: #CCCCCC;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+  	padding-left: 50px;
+  	margin: 20px 0;
+  	font-family: fantasy;
+  	color: green;
+
+}
+
+.objetivo{
+	padding-left: 10px;
+	margin: 10 0 0 20px;
+	text-align: justify;
+	font-size: 30px;
+	color: #000000;	
+	font-family: sans-serif;
+
+}

@@ -4,9 +4,9 @@ body{
 
 
 
+
 .titulo-principal {
 	padding-left: 20px;
-	
 	text-align: center;
 	font-size: 50px;
 	color: #33AB5F;
@@ -110,3 +110,16 @@ ul {
 
 }
 
+footer{
+	background-color: #CCCCCC;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+}
+
+.problematizacao{
+	text-align: center;
+	font-size: 25px;
+	margin: 10px 0;
+
+}
