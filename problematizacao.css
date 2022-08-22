@@ -7,10 +7,12 @@ body{
 
 .titulo-centralizado{
 	text-align: center;
+	text-transform: uppercase;
   	padding-left: 50px;
   	margin: 20px 0;
   	font-family: fantasy;
   	color: green;
+  	font-size: 40px;
 
 }
 
@@ -22,4 +24,9 @@ body{
 	color: #000000;	
 	font-family: sans-serif;
 
+}
+
+#horta{
+	border-radius: 5%;
+	border: 3px solid #C78C19;
 }
